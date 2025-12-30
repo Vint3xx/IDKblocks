@@ -1,0 +1,19 @@
+{
+  "name": "stone",
+  "display_name": "Stone",
+  "icon_name": "stone.png",
+  "breaking_time": 3.5,
+  "hardness": 1.5,
+  "tool_required": "pickaxe",
+  "drops": [
+    {
+      "item": "cobblestone",
+      "count": 1
+    }
+  ],
+  "solid": true,
+  "transparent": false,
+  "flammable": false,
+  "blast_resistance": 6.0
+}
+

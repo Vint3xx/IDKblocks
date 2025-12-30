@@ -1,0 +1,21 @@
+{
+  "name": "grass",
+  "display_name": "Grass Block",
+  "icon_name": "grass.png",
+  "breaking_time": 0.6,
+  "hardness": 0.6,
+  "tool_required": null,
+  "drops": [
+    {
+      "item": "dirt",
+      "count": 1
+    }
+  ],
+  "solid": true,
+  "transparent": false,
+  "flammable": false,
+  "blast_resistance": 0.6,
+  "converts_to": "dirt",
+  "conversion_condition": "covered_from_top"
+}
+
